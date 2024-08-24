@@ -8,4 +8,4 @@ python Report-tiktok.py
 
 
 ```
-<img src = https://raw.githubusercontent.com/Alienrazor/report_tiktok/main/Screenshot_20240823_223421.jpg>
+<img src = https://raw.githubusercontent.com/Alienrazor/report_tiktok/main/IMG_20240824_173038.JPG>
